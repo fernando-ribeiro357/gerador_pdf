@@ -1,0 +1,7 @@
+; Renomeie para .settings.ini e inclua os dados corretos para conexão com o banco
+[database]
+driver = mysql
+host = localhost
+dbname = dbname
+login = dbuser
+secret = <sua-senha-aqui>
